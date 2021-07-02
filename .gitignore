@@ -6,3 +6,6 @@ firestore.rules
 
 
 database.rules.json
+
+
+firebase deploy --only hosting:summify
