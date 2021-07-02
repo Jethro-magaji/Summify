@@ -1,0 +1,22 @@
+{
+    "name": "summify",
+    "version": "1.0.0",
+    "description": "Ecommerce application with faster checkout",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Jethro-magaji/Summify.git"
+    },
+    "keywords": [
+        "ecommerce"
+    ],
+    "author": "Jethro/Henry",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/Jethro-magaji/Summify/issues"
+    },
+    "homepage": "https://github.com/Jethro-magaji/Summify#readme"
+}
