@@ -18,5 +18,21 @@
     "bugs": {
         "url": "https://github.com/Jethro-magaji/Summify/issues"
     },
-    "homepage": "https://github.com/Jethro-magaji/Summify#readme"
+    "homepage": "https://github.com/Jethro-magaji/Summify#readme",
+    "dependencies": {
+        "body-parser": "^1.19.0",
+        "connect-flash": "^0.1.1",
+        "cookie-parser": "^1.4.5",
+        "cryptojs": "^2.5.3",
+        "express": "^4.17.1",
+        "express-handlebars": "^5.3.2",
+        "express-session": "^1.17.2",
+        "express-validator": "^6.12.0",
+        "morgan": "^1.10.0",
+        "nodemon": "^2.0.9",
+        "passport": "^0.4.1",
+        "passport-local": "^1.0.0",
+        "path": "^0.12.7",
+        "request": "^2.88.2"
+    }
 }
