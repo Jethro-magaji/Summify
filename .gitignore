@@ -1,11 +1,16 @@
 .firebaserc
 
 
-
 firestore.rules
 
 
 database.rules.json
+
+
+.firebase
+
+
+.vscode
 
 
 firebase deploy --only hosting:summify
