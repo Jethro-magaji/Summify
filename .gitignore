@@ -16,4 +16,7 @@ database.rules.json
 .vscode
 
 
+.env
+
+
 firebase deploy --only hosting:summify
