@@ -1,6 +1,6 @@
 const cacheName = 'summy-v1';
 const staticAssets = ['./images', './js', './plugins', './styles', './cart.html',
-    './category.html', './checkout.html', './index.html', './product.html'
+    './category.html', './checkout.html', './index.html', './product.html', './404.html', './card.html', './success.html'
 ];
 
 self.addEventListener('install', async e => {
